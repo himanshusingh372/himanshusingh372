@@ -1,16 +1,15 @@
-## Hi there 👋
+##👋 Hi, I'm Himanshu Singh!
+#🔹 BI Developer | Excel Geek | Data Enthusiast
 
-<!--
-**himanshusingh372/himanshusingh372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently started my journey as a BI Developer, and I’m passionate about exploring the world of data. My expertise lies in Power BI, SQL, Advanced Excel, and Data Analytics. I enjoy building interactive dashboards, automating reports, and uncovering insights that drive business decisions.
 
-Here are some ideas to get you started:
+💡 What I Do:
+✅ Create data-driven dashboards using Power BI
+✅ Analyze and visualize data using SQL & Excel
+✅ Automate reporting for efficiency and accuracy
+✅ Explore new data technologies & trends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 On a Mission: To turn raw data into powerful insights!
+
+📌 Let's Connect:
+🔗 LinkedIn | 📧 himanshu372singh@gmail.com
