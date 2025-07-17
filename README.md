@@ -1,5 +1,5 @@
 # 👋Hi, I'm Himanshu Singh!  
-## 🔹Data Analytics | BI Developer | Excel Geek | Data Enthusiast
+## 🔹 Manual QA Tester | Product-Based Testing | Agile | JIRA | SQL | Quality Enthusiast
 
 I recently started my journey as a **Data Analytics | BI Developer**, and I’m passionate about exploring the **world of data**. My expertise lies in **Power BI, SQL, Advanced Excel, and Data Analytics.** I enjoy building **interactive dashboards, automating reports, and uncovering insights** that drive business decisions.
 
